@@ -1,31 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://ModernTiresias.com/about-me/</loc>
-    <lastmod>2022-09-11T19:12:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/categories/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/categories/category1/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/posts/my-first-post/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/posts/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/tags/tag1/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/tags/</loc>
-    <lastmod>2022-09-11T18:31:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ModernTiresias.com/archive/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://moderntiresias.com/about-me/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/categories/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/categories/category1/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/my-first-post/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/posts/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/tags/tag1/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://moderntiresias.com/tags/</loc><lastmod>2022-09-11T23:51:36-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

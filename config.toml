@@ -114,7 +114,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  whether to show the author
     author = true
     # Site creation time
-    since = 2019
+    since = 2022
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
@@ -189,13 +189,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Modern Tiresias"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Musings of a graduate student"
+      subtitle = "Visions of the present, forever clouded with the past"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "Disclaimer: so called <em>hot takes </em> may be room tempurature"
     # Home page posts
     [params.home.posts]
       enable = true

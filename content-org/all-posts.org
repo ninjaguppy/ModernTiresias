@@ -1,4 +1,5 @@
 #+hugo_base_dir: ../
+#+hugo_front_matter_key_replace: author>authors
 
 * Pages
 :PROPERTIES:
@@ -17,10 +18,13 @@ A *Personal Bio* that I need to write at some point in my life
 * Posts
 :PROPERTIES:
 :HUGO_EXPORT_SECTION: posts
+:EXPORT_HUGO_FRONT_MATTER_FORMAT: toml
 :END:
 ** DONE My first post :tag1:@category1:
 CLOSED: [2022-09-11 Sun 18:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :END:
-This is my post body
+This is my post body.
+
+Now with even more meaningless content!
