@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ModernTiresias.com/about-me/</loc>
+    <lastmod>2022-09-11T19:12:00-05:00</lastmod>
+  </url><url>
     <loc>https://ModernTiresias.com/categories/</loc>
     <lastmod>2022-09-11T18:31:00-05:00</lastmod>
   </url><url>
@@ -22,5 +25,7 @@
   </url><url>
     <loc>https://ModernTiresias.com/tags/</loc>
     <lastmod>2022-09-11T18:31:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ModernTiresias.com/archive/</loc>
   </url>
 </urlset>

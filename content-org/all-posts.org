@@ -1,6 +1,24 @@
 #+hugo_base_dir: ../
 
-* DONE My first post :tag1:@category1:
+* Pages
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
+:EXPORT_HUGO_MENU: :menu main
+:EXPORT_HUGO_SECTION:
+:END:
+** DONE About
+CLOSED: [2022-09-11 Sun 19:12]
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
+:EXPORT_FILE_NAME: about-me
+:END:
+A *Personal Bio* that I need to write at some point in my life
+
+* Posts
+:PROPERTIES:
+:HUGO_EXPORT_SECTION: posts
+:END:
+** DONE My first post :tag1:@category1:
 CLOSED: [2022-09-11 Sun 18:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
