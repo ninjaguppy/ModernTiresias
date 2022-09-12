@@ -1,6 +1,6 @@
 +++
 title = "About"
-author = ["Lucas Kerbs"]
+author = "Lucas Kerbs"
 date = 2022-09-11T19:12:00-05:00
 draft = false
 noauthor = true
