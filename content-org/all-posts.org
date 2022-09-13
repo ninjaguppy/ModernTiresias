@@ -7,24 +7,123 @@
 :EXPORT_HUGO_MENU: :menu main
 :EXPORT_HUGO_SECTION:
 :END:
-** DONE About
-CLOSED: [2022-09-11 Sun 19:12]
+** DRFT About
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
 :EXPORT_FILE_NAME: about-me
 :END:
-A *Personal Bio* that I need to write at some point in my life
+I am a first year PhD student at Washington University in Saint Louis. During my
+undergraduate degree I had lots of space to write. While I love spending my days
+thinking about sheaves, analytic functions, and cohomology, I wanted a place to
+get the thoughts out of my head and onto a page.
+
+If all goes well, there should be a post here every Sunday on whatever thoughts
+have wedged themselves into the caffeine-addled brain of a graduate student
+preparing for qualifying exams. I tend to think about memory, narrative, beauty,
+among other things, but the last thing I want to do is put my work here in a
+box. I make no promises about the quality of the posts here---this is a space
+primarily for me to process my own thoughts---but if you're interested in what I
+have to say, please follow along!
+*** TODO Add photo, pronouns, etc to this page
+How do you do the thing where its like
++-------+
+| photo | Name
+|       | Pronouns
+|       | socail linkk
++-------+
 
 * Posts
 :PROPERTIES:
 :HUGO_EXPORT_SECTION: posts
 :EXPORT_HUGO_FRONT_MATTER_FORMAT: toml
 :END:
-** DONE My first post :tag1:@category1:
-CLOSED: [2022-09-11 Sun 18:31]
+** DRFT I Think I Liked My Masters Better
+:PROPERTIES:
+:EXPORT_FILE_NAME: liked-my-masters-better
+:END:
+I'm a three weeks into my PhD and something is gnawing at me.
+*** Thoughts
+Thinking about change in a fundamental way -- the title is mostly just eye
+catching even if it might be true for now
+ - In undergrad you just want the transition to happen faster (skip a month bc
+   you know whats coming is great)
+ - Masters was that much more mature (plus I was more joining an established group)
+ - But now none of the contexts are new (still have an office, apt, etc) and I
+   can't help but compare I think I want the old one back
+   - I know this is "wrong" and I will find my place here but it will never be
+     that---and I guess taht has to be okay.
+
+** PBSH My first post :tag1:@category1:
+CLOSED: [2022-09-12 Mon 23:32]
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :END:
 This is my post body.
 
 Now with even more meaningless content!
+
+* Post Ideas
+** Why Start a Blog
+The wants of starting to write but actually its about the wants of a young
+adult.
+
+** Something about missing California
+- Actually about place
+
+** "I think I liked my masters better"
+Thinking about change in a fundamental way -- the title is mostly just eye
+catching even if it might be true for now
+ - In undergrad you just want the transition to happen faster (skip a month bc
+   you know whats coming is great)
+ - Masters was that much more mature (plus I was more joining an established group)
+ - But now none of the contexts are new (still have an office, apt, etc) and I
+   can't help but compare I think I want the old one back
+   - I know this is "wrong" and I will find my place here but it will never be
+     that---and I guess taht has to be okay.
+
+** "Breaking my Macbook for Fun"
+Why do I care about the tools I use? Reflecting on what it means to be
+"productive" in a capitalist society---something deeper than avoiding
+productivity porn
+
+** Something about why I haven't sold the table yet?
+When I sell it and put the right thing there then I'm Officially Here
+
+Its one thing to have a cabinet that you don't organize -- eventually that just
+becomes what that cabinet/corner/drawer is supposed to be. Its different with
+the dining room table; its too big to ever blend in.
+
+I haven't taken the video of a walkthrough
+
+** Nihilism Questions in Absurdity :erin:
+A review of Everything Everywhere. Maybe reread some Chestron.
+
+** Gaining independence => gaining control (and their to time + place + distance from your old concept of home) :erin:
+thinking about the process of moving out and being more independent
++ use the metaphor of how my couch/table combo has changed over the year
+  + How its changed, and how the person who places their coffee upon it has
+    changed
+    + Missing Nathaniels couch
+
+** Sisyphus and the Art of Eating Lunch :erin:
+Reflections on how my relationship with food -- how lunch and other meals have
+changed in the various phases of my life. Begrudingly, I should talk about the
+continuous of the Eating disorder.
+
+** Narratives and Aphantasia :erin:
+QQ: Why am I so fascinated with stories. Am I a good a story-teller? I have no
+idea, but I do have experience so maybe that's something.
+
+I tell the stories bc I /*actually do*/ get sucked into the stories.
+** I'm not going to do the crossword. :erin:
+I love the idea of doing the crossword with my partner over morning coffee, but
+like I don't do the crossword and I probably won't start.
+
+** The Case for Lower Case :erin:
+gramatical correctness of my generation as a push back against 133T5P3AK. but
+now people just a little bit younger have swung the other way---you can get
+decent data about someones age by whether or not they write i or I. I have
+auto-caps on. Often I will have to force my phone to be in lower case---does it
+express a particular emotion? it is social camoflauge? Whats up with that
++ could mention that the place i do my writing in doesn't have autocaps and I
+  only capitalize things here half the time

@@ -4,7 +4,7 @@ baseURL = "http://moderntiresias.com/"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Modern Tiresias"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -183,13 +183,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = ""
+      gravatarEmail = "lucaskerbs@gmail.com"
       # URL of avatar shown in home page
       #avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = "Modern Tiresias"
+      title = "νῦν τειρεσίας | Modern Tiresias <br> Lucas Kerbs <em> he/they </em>"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Visions of the present, forever clouded with the past"
+      subtitle = "Visions of the present, clouded with the past"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
