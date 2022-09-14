@@ -1,7 +1,6 @@
 +++
 title = "About"
 authors = ["Lucas Kerbs"]
-date = 2022-09-13T00:51:00-05:00
 draft = false
 noauthor = true
 nocomment = true
@@ -14,10 +13,21 @@ noread = true
     identifier = "about"
 +++
 
+<img src='../img/aboutphoto.jpeg' style="margin: 10px 10px 0px 0px; float: left;" width="200" >
+
+<br/><br/>
+**Lucas Kerbs**
+<br/><br/>
+**Pronouns:** *he/they*
+<br/><br/>
+**Socials:** *links to come*
+<br/><br/><br/>
+
 I am a first year PhD student at Washington University in Saint Louis. During my
 undergraduate degree I had lots of space to write. While I love spending my days
 thinking about sheaves, analytic functions, and cohomology, I wanted a place to
 get the thoughts out of my head and onto a page.
+
 
 If all goes well, there should be a post here every Sunday on whatever thoughts
 have wedged themselves into the caffeine-addled brain of a graduate student

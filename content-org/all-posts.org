@@ -12,6 +12,10 @@
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
 :EXPORT_FILE_NAME: about-me
 :END:
+#+begin_src html
+<img style="float: right;" src="../resources/img/aboutphoto.jpeg">
+#+end_src
+
 I am a first year PhD student at Washington University in Saint Louis. During my
 undergraduate degree I had lots of space to write. While I love spending my days
 thinking about sheaves, analytic functions, and cohomology, I wanted a place to
@@ -24,13 +28,14 @@ among other things, but the last thing I want to do is put my work here in a
 box. I make no promises about the quality of the posts here---this is a space
 primarily for me to process my own thoughts---but if you're interested in what I
 have to say, please follow along!
-*** TODO Add photo, pronouns, etc to this page
+** TODO Add photo, pronouns, etc to this page
 How do you do the thing where its like
 +-------+
 | photo | Name
 |       | Pronouns
 |       | socail linkk
 +-------+
+[[https://emacs.stackexchange.com/questions/50607/image-and-text-side-by-side-in-org-mode-how-to-flow-text-around-an-inline-imag][This Link]] looks promising
 
 * Posts
 :PROPERTIES:
@@ -52,6 +57,7 @@ catching even if it might be true for now
    can't help but compare I think I want the old one back
    - I know this is "wrong" and I will find my place here but it will never be
      that---and I guess taht has to be okay.
+ - Hiding some of your shameful mannerisms
 
 ** PBSH My first post :tag1:@category1:
 CLOSED: [2022-09-12 Mon 23:32]
@@ -69,6 +75,8 @@ adult.
 
 ** Something about missing California
 - Actually about place
+https://twitter.com/FredFredSanders/status/1569726910535704577
+  -- This is quote from Centuries; could be interesting!
 
 ** "I think I liked my masters better"
 Thinking about change in a fundamental way -- the title is mostly just eye

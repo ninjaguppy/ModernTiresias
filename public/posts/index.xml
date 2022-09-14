@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
+        <title>All Posts - Modern Tiresias</title>
         <link>http://moderntiresias.com/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
+        <description>All Posts | Modern Tiresias</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucaskerbs@gmail.com (Lucas Kerbs)</managingEditor>
             <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Sun, 11 Sep 2022 18:31:00 -0500</lastBuildDate><atom:link href="http://moderntiresias.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My first post</title>
@@ -10,7 +10,8 @@
     <pubDate>Sun, 11 Sep 2022 18:31:00 -0500</pubDate>
     <author>Lucas Kerbs</author>
     <guid>http://moderntiresias.com/my-first-post/</guid>
-    <description><![CDATA[This is my post body]]></description>
+    <description><![CDATA[This is my post body.
+Now with even more meaningless content!]]></description>
 </item>
 </channel>
 </rss>
