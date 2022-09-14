@@ -20,7 +20,7 @@ noread = true
 <br/><br/>
 **Pronouns:** *he/they*
 <br/><br/>
-**Socials:** *links to come*
+**Socials:** NOTE: THIS PAGE LOOKS BAD AND I WILL FIX IT
 <br/><br/><br/>
 
 I am a first year PhD student at Washington University in Saint Louis. During my
