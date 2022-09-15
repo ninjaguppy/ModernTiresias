@@ -13,20 +13,25 @@ noread = true
     identifier = "about"
 +++
 
-<img src='../img/aboutphoto.jpeg' style="margin: 10px 10px 0px 0px; float: left;" width="200" >
+<div>
+<div>
+<img src='../img/aboutphoto.jpeg' style="margin: 10px 10px 10px 10px; float: left;" width="210" >
+</div>
 
-<br/><br/>
-**Lucas Kerbs**
-<br/><br/>
-**Pronouns:** *he/they*
-<br/><br/>
-**Socials:** NOTE: THIS PAGE LOOKS BAD AND I WILL FIX IT
-<br/><br/><br/>
+<div><br/>
+<b>Lucas Kerbs</b>
+<p style="margin-bottom:0.5cm;">
+<em>he/they</em> <a href="https://pronouns.org/what-and-why/" target="_blank" style="color: #798150"> [whats this?]</a>
 
+</p>
+</div>
+</div>
+<p style="margin-bottom:0.5cm;">
 I am a first year PhD student at Washington University in Saint Louis. During my
 undergraduate degree I had lots of space to write. While I love spending my days
 thinking about sheaves, analytic functions, and cohomology, I wanted a place to
 get the thoughts out of my head and onto a page.
+</p>
 
 
 If all goes well, there should be a post here every Sunday on whatever thoughts
