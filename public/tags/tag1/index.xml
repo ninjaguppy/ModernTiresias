@@ -4,14 +4,15 @@
         <link>http://moderntiresias.com/tags/tag1/</link>
         <description>tag1 - Tag - Modern Tiresias</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucaskerbs@gmail.com (Lucas Kerbs)</managingEditor>
-            <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Sun, 11 Sep 2022 18:31:00 -0500</lastBuildDate><atom:link href="http://moderntiresias.com/tags/tag1/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Mon, 12 Sep 2022 23:32:00 -0500</lastBuildDate><atom:link href="http://moderntiresias.com/tags/tag1/" rel="self" type="application/rss+xml" /><item>
     <title>My first post</title>
     <link>http://moderntiresias.com/my-first-post/</link>
-    <pubDate>Sun, 11 Sep 2022 18:31:00 -0500</pubDate>
+    <pubDate>Mon, 12 Sep 2022 23:32:00 -0500</pubDate>
     <author>Lucas Kerbs</author>
     <guid>http://moderntiresias.com/my-first-post/</guid>
-    <description><![CDATA[This is my post body.
-Now with even more meaningless content!]]></description>
+    <description><![CDATA[This is a first heading This is my post body.
+And a second heading Now with even more meaningless content!
+And another top level heading! ]]></description>
 </item>
 </channel>
 </rss>

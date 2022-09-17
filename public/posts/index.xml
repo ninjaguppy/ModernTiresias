@@ -4,14 +4,24 @@
         <link>http://moderntiresias.com/posts/</link>
         <description>All Posts | Modern Tiresias</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucaskerbs@gmail.com (Lucas Kerbs)</managingEditor>
-            <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Sun, 11 Sep 2022 18:31:00 -0500</lastBuildDate><atom:link href="http://moderntiresias.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Mon, 12 Sep 2022 23:32:00 -0500</lastBuildDate><atom:link href="http://moderntiresias.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My first post</title>
     <link>http://moderntiresias.com/my-first-post/</link>
-    <pubDate>Sun, 11 Sep 2022 18:31:00 -0500</pubDate>
+    <pubDate>Mon, 12 Sep 2022 23:32:00 -0500</pubDate>
     <author>Lucas Kerbs</author>
     <guid>http://moderntiresias.com/my-first-post/</guid>
-    <description><![CDATA[This is my post body.
-Now with even more meaningless content!]]></description>
+    <description><![CDATA[This is a first heading This is my post body.
+And a second heading Now with even more meaningless content!
+And another top level heading! ]]></description>
+</item>
+<item>
+    <title>I Think I Liked My Masters Better</title>
+    <link>http://moderntiresias.com/liked-my-masters-better/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Lucas Kerbs</author>
+    <guid>http://moderntiresias.com/liked-my-masters-better/</guid>
+    <description><![CDATA[I&rsquo;m only three weeks into my PhD and something is gnawing at me: I think I liked doing my masters better.
+There&rsquo;s an undergraduate in the graduate algebra class who seems to be in a bit over his head. While lectures don&rsquo;t assume any previous knowledge of algebra, they move very quickly if it&rsquo;s your first time seeing the ideas&mdash;what an undergraduate course would cover in the span of 10-12 weeks we are doing in four.]]></description>
 </item>
 </channel>
 </rss>
