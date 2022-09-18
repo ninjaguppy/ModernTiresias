@@ -9,74 +9,6 @@ adult.
 https://twitter.com/FredFredSanders/status/1569726910535704577
   -- This is quote from Centuries; could be interesting!
 
-* "I think I liked my masters better"
-** Ideas
-Thinking about change in a fundamental way -- the title is mostly just eye
-catching even if it might be true for now
- - In undergrad you just want the transition to happen faster (skip a month bc
-   you know whats coming is great)
- - Masters was that much more mature (plus I was more joining an established group)
- - But now none of the contexts are new (still have an office, apt, etc) and I
-   can't help but compare I think I want the old one back
-   - I know this is "wrong" and I will find my place here but it will never be
-     that---and I guess taht has to be okay.
-- Hiding mannerisms
-
-
-** Thoughts
-*** Hook - the story in Algebra
-Transition into the office situation
-*** What was so great about Poly?
-Rose-y glasses :(
-The people
-I was out
- + Its not that I don't want to be out online -- more just the possible ripple
- + Not that I'm in the closet here, I'm just around queer people less
-Talk about the offices, their link to the scenery
- + Even if we were crammed like sardines, the space was very open---meaning that
-   when not everyone was in the office there was space
- + Nice Chalk boards!
- + The hills -- both on campus and surrounding
-
-*** The Wustl Offices
-I feel like I've described these enough to other people to understand the
-correct beats that I need to hit
-*** Write about Transition
-With this being college 3, I've done this transition before
- - talk about the way it has gone each time---compare masters to undergrad
- - phd is just masters again---but I liked my masters!
-At the end of the day, wustl still feels like a dull mirror of poly.
- + This is temporary -- eventually wustl will shine but I guess I just need to
-   hang on until then.
-
-Mention the mannerisms here?
-*** Change and What it means
-How am I even supposed to answer this question? Trying to understand what change
-means is like trying to understand the ocean---maybe someone understands it, but
-I certainly don't. I'm just going to ride it out.
-
-Change of circumstances is an exercise in trust---both in the people around me
-and the fact that my experiensces of
-
-** Draft
-{make this my summary or something}
-I'm only three weeks into my PhD and something is gnawing at me: I think I liked
-doing my masters better.
-
-There's an undergraduate in the graduate algebra class who seems to be in a bit
-over his head. While lectures don't assume any previous knowledge of algebra,
-they move very quickly if it's your first time seeing the ideas---what an
-undergraduate course would cover in the span of 10-12 weeks we are doing in
-four. Late last week, he asked the professor a question that was born out of a
-misunderstanding of a fundamental concept, and I could tell that he wasn't quite
-satisfied with the answer. By habit I leaned forward to whisper something along
-the lines of "If you want, stop by the grad offices after class and I can
-explain" but I stopped myself.
-At Poly (where I did my masters) we always joked that we were packed into the
-grad offices like sardines but the offices at Wash U are practically overflowing.
-
-While the offices felt packed at Poly (where I did my masters) the
-
 * "Breaking my Macbook for Fun"
 Why do I care about the tools I use? Reflecting on what it means to be
 "productive" in a capitalist society---something deeper than avoiding
@@ -123,3 +55,74 @@ auto-caps on. Often I will have to force my phone to be in lower case---does it
 express a particular emotion? it is social camoflauge? Whats up with that
 + could mention that the place i do my writing in doesn't have autocaps and I
   only capitalize things here half the time
+
+
+* WRITTEN
+** "I think I liked my masters better"
+*** Ideas
+Thinking about change in a fundamental way -- the title is mostly just eye
+catching even if it might be true for now
+ - In undergrad you just want the transition to happen faster (skip a month bc
+   you know whats coming is great)
+ - Masters was that much more mature (plus I was more joining an established group)
+ - But now none of the contexts are new (still have an office, apt, etc) and I
+   can't help but compare I think I want the old one back
+   - I know this is "wrong" and I will find my place here but it will never be
+     that---and I guess taht has to be okay.
+- Hiding mannerisms
+
+*** Thoughts
+**** Hook - the story in Algebra
+    Transition into the office situation
+**** What was so great about Poly?
+Rose-y glasses :(
+The people
+I was out
+ + Its not that I don't want to be out online -- more just the possible ripple
+ + Not that I'm in the closet here, I'm just around queer people less
+Talk about the offices, their link to the scenery
+ + Even if we were crammed like sardines, the space was very open---meaning that
+   when not everyone was in the office there was space
+ + Nice Chalk boards!
+ + The hills -- both on campus and surrounding
+
+**** The Wustl Offices
+I feel like I've described these enough to other people to understand the
+correct beats that I need to hit
+**** Write about Transition
+With this being college 3, I've done this transition before
+ - talk about the way it has gone each time---compare masters to undergrad
+ - phd is just masters again---but I liked my masters!
+At the end of the day, wustl still feels like a dull mirror of poly.
+ + This is temporary -- eventually wustl will shine but I guess I just need to
+   hang on until then.
+
+Mention the mannerisms here?
+**** Change and What it means
+How am I even supposed to answer this question? Trying to understand what change
+means is like trying to understand the ocean---maybe someone understands it, but
+I certainly don't. I'm just going to ride it out.
+
+Change of circumstances is an exercise in trust---both in the people around me
+and the fact that my experiensces of
+
+*** Draft
+{make this my summary or something}
+I'm only three weeks into my PhD and something is gnawing at me: I think I liked
+doing my masters better.
+
+There's an undergraduate in the graduate algebra class who seems to be in a bit
+over his head. While lectures don't assume any previous knowledge of algebra,
+they move very quickly if it's your first time seeing the ideas---what an
+undergraduate course would cover in the span of 10-12 weeks we are doing in
+four. Late last week, he asked the professor a question that was born out of a
+misunderstanding of a fundamental concept, and I could tell that he wasn't quite
+satisfied with the answer. By habit I leaned forward to whisper something along
+the lines of "If you want, stop by the grad offices after class and I can
+explain" but I stopped myself.
+At Poly (where I did my masters) we always joked that we were packed into the
+grad offices like sardines but the offices at Wash U are practically overflowing.
+
+While the offices felt packed at Poly (where I did my masters) the
+
+* TRASHED
