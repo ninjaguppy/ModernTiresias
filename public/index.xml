@@ -2,28 +2,194 @@
     <channel>
         <title>Modern Tiresias</title>
         <link>http://moderntiresias.com/</link>
-        <description>This is my cool site</description>
+        <description>Visions of the present, clouded with the past</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucaskerbs@gmail.com (Lucas Kerbs)</managingEditor>
-            <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Mon, 12 Sep 2022 23:32:00 -0500</lastBuildDate>
+            <webMaster>lucaskerbs@gmail.com (Lucas Kerbs)</webMaster><lastBuildDate>Sun, 18 Sep 2022 18:47:00 -0500</lastBuildDate>
             <atom:link href="http://moderntiresias.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>My first post</title>
-    <link>http://moderntiresias.com/my-first-post/</link>
-    <pubDate>Mon, 12 Sep 2022 23:32:00 -0500</pubDate>
-    <author>Lucas Kerbs</author>
-    <guid>http://moderntiresias.com/my-first-post/</guid>
-    <description><![CDATA[This is a first heading This is my post body.
-And a second heading Now with even more meaningless content!
-And another top level heading! ]]></description>
-</item>
-<item>
-    <title>I Think I Liked My Masters Better</title>
+    <title>Chalkboards and Community</title>
     <link>http://moderntiresias.com/liked-my-masters-better/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <pubDate>Sun, 18 Sep 2022 18:47:00 -0500</pubDate>
     <author>Lucas Kerbs</author>
     <guid>http://moderntiresias.com/liked-my-masters-better/</guid>
-    <description><![CDATA[I&rsquo;m only three weeks into my PhD and something is gnawing at me: I think I liked doing my masters better.
-There&rsquo;s an undergraduate in the graduate algebra class who seems to be in a bit over his head. While lectures don&rsquo;t assume any previous knowledge of algebra, they move very quickly if it&rsquo;s your first time seeing the ideas&mdash;what an undergraduate course would cover in the span of 10-12 weeks we are doing in four.]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/chalkmasters.jpeg" referrerpolicy="no-referrer">
+            </div><p>There&rsquo;s an undergraduate in the graduate algebra class who seems to be in a bit
+over his head. While the lectures don&rsquo;t assume any previous knowledge of algebra,
+they move quickly if it&rsquo;s your first time seeing the ideas&mdash;what an
+undergraduate course would cover in the span of 10-12 weeks we are doing in
+four. Late last week, he asked the professor a question and I could tell that he
+wasn&rsquo;t quite satisfied with the answer. By habit I leaned forward to whisper
+something along the lines of &ldquo;If you want, stop by the grad offices after class
+and I can explain&rdquo; but I stopped myself.  The grad offices the department gave
+us don&rsquo;t lend themselves guest visits (but more on that later).  At Cal
+Poly (where I did my masters) we always joked that we were packed into the grad
+offices like sardines but the offices at Wash U are practically overflowing.</p>
+<p>When I met with my academic advisor prior to the start of the
+semester, I asked about the office situation. After chuckling he told
+me that first years are each given a carrel but assured me that the accommodations
+got better as you progressed through the program. A carrel is a little desk unit
+with a built-in shelf that you might find in a library.
+They&rsquo;re perfectly functional as a desk but the steep walls are a collaborative
+point of friction.  The office is an integral part of graduate school&mdash;it&rsquo;s a
+place to study and rest between classes, to ask your peers for help, and to chat
+about anything and everything when the math gets a little too abstract and you
+need a break.
+While it may come as a surprise to those who are unfamiliar with the peculiar
+mannerisms of mathematicians, the center-point of any math office is not the
+desk, but the chalkboard.</p>
+<p>Mathematicians have a bit of a complex when it comes to chalkboards. Maybe it&rsquo;s for
+purely aesthetic reason, but a proper slate chalkboard is just <em>better</em> than a
+whiteboard. While everyone has their preference between the brands of
+chalk a department might stock, one manufacturer sits king: Hagoromo. Stick of Hagoromo
+are slightly wider than your average chalk (so it sits more comfortably in the
+hand) and it is coated in a thin layer of wax so that your fingers don&rsquo;t get
+dusty. Not everyone uses Hagoromo regularly, but if there is a stick available,
+I don&rsquo;t know a single mathematician who would turn it down.  According to
+mathematical legend, no one has ever written a false theorem when holding a
+stick of Hagoromo. Young mathematicians watch university surplus sales to try
+and score a slate chalkboard at a hefty discount. The chalkboard is the
+hearth of the mathematical community&mdash;where students and professors gather to
+share ideas and prove new theorems.</p>
+<p>I&rsquo;m a sucker for tradition, so when I learned about this mathematical quirk
+during my senior year of undergrad I went out and bought a cheap chalkboard and
+a pack of Hagoromo. While I&rsquo;ve never collaborated with anyone on this
+chalkboard, it still hangs a few feet to the left of my desk. When I first
+started writing on it, I knew that I was participating in a story that stretched
+back through generations of math students. It brought me joy to think about a
+potential future where I would work on problem sets in an office with my peers.</p>
+<h2 id="the-art-of-the-grad-office">The Art of the Grad Office</h2>
+<h3 id="the-dungeons-of-building-38">The Dungeons of Building 38</h3>
+<p>I moved to San Luis Obispo in February 2021 and spent the first four months doing
+classes online. The pandemic was in full swing and
+I only stepped foot on campus a handful of times before in-person classes
+resumed in September. I spent most of that spring and summer in my apartment
+with the occasional trip back to Sacramento. When I started my second year I was
+confronted with two disparate truths: I really liked my peers but I knew that
+I was moving in less than a year. I&rsquo;m too much of a romantic to pretend that I
+wasn&rsquo;t going to make friends but that deadline loomed over SLO just like the
+golden hills.</p>
+<p>I quickly fell into a rhythm in SLO, with the weeks marked by Taco Tuesdays,
+grading quizzes, and puzzling through Dr. Brussel&rsquo;s pathological problem sets.
+Our offices were simple&mdash;roughly the square footage of a dorm room, four heavy
+duty 8&rsquo; tables topped with iMacs and ancient printers lined three of the walls
+with a chalkboard across the fourth. While four people shared each
+office, it was not uncommon for eight or ten to congregate in a single
+office. This overcrowding led to us nicknaming the offices &ldquo;the dungeons.&rdquo;
+In our office, we moved all the computers to one
+corner so that we could work on our laptops or spread out whatever books we
+were referencing for our classes or research&mdash;this had the added bonus of
+making room for an espresso machine, coffee grinder, and pour-over setup. Since
+our classes were down the hall from the offices, it was not uncommon to get to
+campus before sunrise and not emerge from the dungeons until after the sun had
+set.</p>
+<p>As quarters passed, we grew close and learned how to make the best of life in
+the dungeons: Karl and I would drag each other into the sun for some much-needed
+vitamin-D, Taco Tuesdays went later and later as friends became family, we
+enrolled in a bowling class and spent two hours a week bowling poorly,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> I
+befriended a few students outside of the major and spend time not thinking about math.
+And yet, one thing never changet: after classe we would congregate around a
+chalkboard in the &ldquo;social&rdquo; office and go over anything that confused us in the
+lecture.</p>
+<p>The chalkboard in my office in Cal Poly was old and pitted, but it was clearly
+well loved. Over the 21-22 academic year we put over a hundred sticks
+worth of chalk on that board; some of it was Prang (the brand provided by the
+department) but most of it was Hagoromo. Sometimes a week would go by without
+facing a problem that was so difficult it required chalkboard work&mdash;when this
+happened the boards would collect doodles from some of the art students who were
+friends of the department.
+But then, when the problem sets were particularly pathological, we gathered
+around a chalkboard and worked through problems together.  While it was the
+adventures off campus that made us family, we were always at home around a chalkboard.</p>
+<h3 id="the-carrels-of-cupples-i">The Carrels of Cupples I</h3>
+<p>Imagine my surprise, then, when I first walked into the basement of the Math
+Department at Wash U and saw the first-year offices. Over twenty carrels filled
+a room not much bigger than my office in SLO.
+Cold CFL&rsquo;s in a colder, hanging industrial frame washed out the
+little bit of natural light coming from the tiny windows near the ceiling.
+I would come to find out that
+there was a bit of drama surrounding office placements. As you move through
+the program, you change offices. You are still confined to a carrel, but the
+square footage of the office itself increases. Perhaps most importantly,
+however, the offices move to higher floors and have larger windows. This year
+the previous fourth years didn&rsquo;t move into the fifth year
+offices&mdash;meaning that none of the other years could move up. As result, the
+first and second years are all stuck in a single office. The department added
+more carrels in the middle of room so every student had their own desk,  but the
+resulting office is a maze of desks, most of which sit empty because many
+of the other students (understandably) want to study elsewhere.</p>
+<p>The first-year offices only has a single chalkboard; it&rsquo;s three feet wide and
+sits on a wobbly wooden stand. Even when cleaned, it still looks a little dusty.
+On the chalk ledge sits half a stick of white Crayola (which writes a little
+worse than Prang) and a nub of sidewalk chalk.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> It&rsquo;s a perfectly functional
+chalkboard, but it&rsquo;s hard to love. Compared to Cal Poly (where the grad offices
+were built around the chalkboard) the board here feels like a bit of an afterthought.</p>
+<p>Don&rsquo;t get me wrong, I&rsquo;m grateful that the department gave us offices&mdash;many
+graduate students don&rsquo;t get an office until they pass their qualifying exams.
+Comparison may be the thief of joy, but I can&rsquo;t help it. The labyrinthine spread
+of carrels feels more like a dungeon than anything in Cal Poly ever did. The
+chalkboard, the supposed &ldquo;hearth&rdquo; of the mathematical community is relegated to
+the only corner they couldn&rsquo;t fit a desk. At the end of the day, it isn&rsquo;t the
+kind of office you invite a curious undergraduate into so you can explain the
+nuances of the first isomorphism theorem.</p>
+<h2 id="the-trouble-with-change">The Trouble with Change</h2>
+<p>At this point in my life, I&rsquo;m no stranger to moving to a new city. While I lived
+in the same house from birth to graduating high school, I just had my third
+&ldquo;first week of college.&rdquo; When you start undergrad, everything feels like a
+whirlwind; you&rsquo;re on your own for the first time, no one is going to tell you
+when to go to bed or what to eat, and everyone around you is experiencing the
+same new-found freedom. Every September, the spirit of Bacchus descends upon
+college campuses and first-years everywhere are overtaken. Looking back on it,
+it feels almost otherworldly. I am an introvert to my core and yet I was
+attending event after event meeting new people left and right. It seemed like
+that was just what you did at the beginning of college.</p>
+<p>The transition into my masters was different. Sure, COVID made in-person events
+complicated but even when transmission rates were down and restrictions loosened
+there was a decided lack of the bacchan revelries that marked the beginning of
+undergrad. Not only were we all in our early 20s, over half of my cohort were
+&ldquo;4+1 students&rdquo; who did their undergraduate studies at Cal Poly&mdash;meaning they
+were already close friends. When I started my masters, I didn&rsquo;t feel like I had
+to rush to make friends. The relationships grew slower, but more organically.
+Even with a deadline on the horizon, classmates naturally became friends, and
+friends became family.</p>
+<p>Now I&rsquo;m here in Saint Louis making this transition a third time. While it&rsquo;s
+going as I expected&mdash;slowly growing closer with my cohort, working on problem
+sets together and planning the occasion trip&mdash;I can&rsquo;t help but compare Wash U
+to Cal Poly. The transition to my masters was so distinct from that to my
+undergrad that comparing the two didn&rsquo;t feel appropriate. With Wash U, on the
+other hand, it feels almost identical. The people here are lovely. I can see
+many of them becoming life-long friends and collaborators. I can&rsquo;t help but
+thinking, however, that I don&rsquo;t want a new circle. The people I had in SLO were
+amazing; they were family. I know that making the comparison will only make the
+adjustment period longer but I can&rsquo;t help it.</p>
+<p>The fundamental problem here is bound in time. Strangers can&rsquo;t (or perhaps
+shouldn&rsquo;t) become close friends overnight. To become close with my
+new cohort I need to lean in&mdash;just as I did a year ago. Commit to the new friends
+and let time run its course.</p>
+<p>When I sat down to write, I hoped I would discover something about the nature of
+change, to find the beginnings of an answer as to what it all means. On the other
+side of a few hundred words, I think it&rsquo;s a question wrongly put. Trying to
+understand what change means is like trying to understand the ocean&mdash;maybe
+someone understands it, but I certainly don&rsquo;t.</p>
+<p>The only thing that I can do is be present. So I guess that&rsquo;s what I will do. I
+will work on the problem sets with my classmates and hope that it&rsquo;s
+not a fluke that generations of graduate students have become family following
+the same pattern. It may not be perfect, but that little, dusty-green chalkboard
+on the wobbly stand just might be the saving grace for that harshly lit basement
+office.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>If you bowl twice a week for 10 weeks you end up getting better at
+bowling&hellip;  who would have guessed.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>To call writing with sidewalk chalk &ldquo;unpleasant&rdquo; is a understatement.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
 </item>
 </channel>
 </rss>

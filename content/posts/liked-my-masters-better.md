@@ -94,7 +94,7 @@ the dungeons: Karl and I would drag each other into the sun for some much-needed
 vitamin-D, Taco Tuesdays went later and later as friends became family, we
 enrolled in a bowling class and spent two hours a week bowling poorly,[^fn:1] I
 befriended a few students outside of the major and spend time not thinking about math.
-And yet, one thing never changet: after classe we would congregate around a
+And yet, one thing never changed: after class we would congregate around a
 chalkboard in the "social" office and go over anything that confused us in the
 lecture.
 
