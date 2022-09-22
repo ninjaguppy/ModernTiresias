@@ -19,7 +19,7 @@
         {{- "<![CDATA[" | safeHTML -}}
         {{- with $params.featuredimage -}}
             <div class="featured-image">
-                <img src="{{ . | absURL }}" width="900" height="600" referrerpolicy="no-referrer">
+                <img src="{{ . | absURL }}" max-width=90% height=auto referrerpolicy="no-referrer">
             </div>
         {{- end -}}
         {{- $content := .Page.Description -}}
