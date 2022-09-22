@@ -44,8 +44,10 @@ have to say, please follow along!
 
 <br/><br/>
 
-I would recommend reading the blog via RSS, but I know not everyone uses it. If
-you would like to receive posts in your email inbox instead, please sign up below!
+I would recommend reading the blog via RSS, but I know not everyone uses it.
+I'm working on setting up newsletter component for those who want to receive the
+posts in their email inbox. It's not working yet, but if you leave your email
+below, I will let you know when it's working!
 
 <br/>
 <div id="revue-embed">
