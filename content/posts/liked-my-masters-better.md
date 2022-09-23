@@ -198,6 +198,13 @@ the same pattern. It may not be perfect, but that little, dusty-green chalkboard
 on the wobbly stand just might be the saving grace for that harshly lit basement
 office.
 
+---
+
+Edit (9/22): I recommend reading the blog via RSS, but I know that not everyone
+uses it (if you've never used it before it's a good way to keep up with
+blogs/forums anywhere on the internet). That said, it you would prefer to
+receive posts in your email inbox (via MailChimp) there is a form on the "About" page!
+
 [^fn:1]: If you bowl twice a week for 10 weeks you end up getting better at
     bowling...  who would have guessed.
 [^fn:2]: To call writing with sidewalk chalk "unpleasant" is a understatement.
