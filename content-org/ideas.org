@@ -1,15 +1,69 @@
 #+title: Ideas For Blog Posts
 
 * CAPTURE
-** The Ritual of Morning Coffee -- A Modern Liturgy
-This one will be some time in the future---probably next week. I want to try to
-not use my phone in morning first. That plays into the ideas of intentionality
 ** Something about having a joke you know is funny :idea:
 two ways for it to go -- maybe it kills like you expected but maybe it falls
 flat! You gotta tell it anyway. When it kills you have these great memories and
 then when it doesn't you face Public Mortification
 * PLAN
+** The Ritual of Morning Coffee -- A Modern Liturgy
+*** Ideas
+This one will be some time in the future---probably next week. I want to try to
+not use my phone in morning first. That plays into the ideas of intentionality
 
+It could be fun to actually write a mini liturgy for this (maybe for the
+opening)?
+
+Two ways to do it:
+  1) Start with my ritual and then talk how it has changed over time about the importance of personal ritual
+  2) Go through the ritual in “acts” and between each act pause and reflect (where the reflections develop the ideas)
+     -> I think the way to go is option 2.
+*** Structure
+**** A Liturgy of Waking Up
+Try not to hit snooze but be gentle with yourself when you do
+
+Check the notifications if you have to, but don't use the phone
+
+Pet the cats and listen to their screams
+***** Pause: The Morning Ritual as a Practice
+What is a morning ritual? why do I care? something about how you can shape it
+by your own actions -- the lack of phone is new but important. Being gentle with
+yourself in the transitions
+**** A Liturgy for the Feeding of Cats
+Feed cats -> Brush Teeth -> Make bed
+
+Something about the cats depending on you
+
+The cats may eat the same thing every morning, but so do you
+
+Brush your teeth, hope that the battery in your 3 year old quip still works
+ - Brushing teeth as a practice of present and the future
+
+Something about making the bed -- mention Dr. Kim's observation.
+***** The Morning Ritual As An Investment in Myself
+This is where I talk about treating myself like I treat the cats. The morning
+ritual is where I separate myself into two people and take care of myself.
+Making sure that I have everything that I need to be the best me.
+**** The Liturgy of Morning Coffee
+This is the crux of the piece -- perhaps the hardest one.
+
+I can steeal from the book of common prayer here "for what I have left done and
+undone" etc
+***** The Morning Ritual As "something life giving"
+Not just about the future. The caffiene wakes me up, but thats not why I drink
+coffee. The ritual of morning itself is the thing that wakes me up and makes the
+day worth it
+
+**** A Liturgy For an English Muffin
+This one is in flux -- I want it to be about feeding myself in some way but
+probably about breakfast.
+***** The Morning Ritual As A Foundation
+This is where I can talk about how I am willing to be late if it means the
+ritual stays right. It can be rushed. /I/ am allowed to /choose/ to skip steps, but
+when an external factor causes things to be skipped it will throw be off
+**** A Liturgy of Leaving
+
+*** Draft
 ** What Makes a Story, Pt. 1 -- Aphantasia :erin:
 *** Ideas
 QQ: Why am I so fascinated with stories. Am I a good a story-teller? I have no
@@ -17,12 +71,29 @@ idea, but I do have experience so maybe that's something.
 
 I tell the stories bc I /*actually do*/ get sucked into the stories.
 
+DnD == but what is the central idea? Is it supposed to be
+
 *** Structure
-**** Opening: The Apple
-**** Memory
-***** Mention OCD--its a fun story
-**** Narrative and what they mean
-I feel particularly connected to this idea---just like
+**** Opening: The campfire in Australia
+**** Historical Importance
+**** Compulsive Storytelling
+**** Aphantasia
+
+**** OLD
+***** Opening: The Apple
+***** Memory
+Use the metaphor of a childrens song.
+
+Maybe its sad -- I'm really not sure.
+***** Storytelling itself
+Storytelling is like a fillagry for my list-like memory
+
+Its communal, but in a different way than chalkboards. Storytelling is about
+*being* toghether, not *doing* together (dnd makes this more complicated)
+
+This is one of the
+***** Narrative and what they mean
+I feel particularly connected to this idea---
 *** Draft
 
 ** What Makes a Story, Pt. 2 -- Plot, Theme, Character :erin:
