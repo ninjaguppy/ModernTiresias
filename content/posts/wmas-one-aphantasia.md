@@ -1,7 +1,8 @@
 +++
 title = "What Makes a Story, Part 1: Aphantasia"
 authors = ["Lucas Kerbs"]
-draft = true
+date = 2022-10-02T23:54:00-05:00
+draft = false
 featuredImage = "/img/wmas-apple.jpeg"
 featuredImagePreview = "/img/wmas-apple.jpeg"
 +++

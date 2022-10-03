@@ -70,7 +70,8 @@ have to say, please follow along!
 **** The Morning Ritual as a Foundation
 *** A Liturgy for Leaving the Apartment
 
-** DRFT What Makes a Story, Part 1: Aphantasia
+** PBSH What Makes a Story, Part 1: Aphantasia
+CLOSED: [2022-10-02 Sun 23:54]
 :PROPERTIES:
 :EXPORT_FILE_NAME: wmas-one-aphantasia
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage "/img/wmas-apple.jpeg" :featuredImagePreview  "/img/wmas-apple.jpeg"
