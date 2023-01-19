@@ -3,8 +3,7 @@ title = "What Makes a Story, Part 1: Aphantasia"
 authors = ["Lucas Kerbs"]
 date = 2022-10-02T23:54:00-05:00
 draft = false
-featuredImage = "/img/wmas-apple.jpeg"
-featuredImagePreview = "/img/wmas-apple.jpeg"
+summary = "Storytelling with mind blindnees"
 +++
 
 This is the first part in a three(ish) part series about narrative---while I would love to
@@ -30,7 +29,7 @@ of the negative space in the sky. I remember being fascinated by the stories. At
 one point I stepped away from the fire and laid on the ground to get a better
 look at the stars. I can't claim that I was somehow sucked into the
 narrative and saw the heroes dancing among the stars. There was no "fantastical
-imagery" conjugate in my mind; all I saw were the stars,
+imagery" conjured in my mind; all I saw were the stars,
 but I know that I experienced something special that night.  I already had a soft
 spot for the art of storytelling, but listing to those stories passed down
 through generations convinced me that there is something a little bit magical
