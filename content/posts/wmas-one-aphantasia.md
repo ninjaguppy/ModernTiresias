@@ -31,7 +31,7 @@ look at the stars. I can't claim that I was somehow sucked into the
 narrative and saw the heroes dancing among the stars. There was no "fantastical
 imagery" conjured in my mind; all I saw were the stars,
 but I know that I experienced something special that night.  I already had a soft
-spot for the art of storytelling, but listing to those stories passed down
+spot for the art of storytelling, but listening to those stories passed down
 through generations convinced me that there is something a little bit magical
 about storytelling.
 
@@ -55,7 +55,7 @@ It's partially this communal aspect that draws me to narrative.
 One summer in high school I found myself in a movie theater watching an animated
 movie that was entirely in Spanish. One of my friends has cracked her phone
 screen so a group of us spent the afternoon at the mall while it was getting
-repaired. We window shopped for a while but when we still had two hours to kill
+repaired. We window shopped for a while but we still had two hours to kill
 by the time we exhausted the offerings. When we wandered over to the attached
 movie theater we say they were playing _Un Gallo con Mucho Huevos_ in ten minutes
 and immediately bought tickets. Thankfully there were English subtitle but, as
@@ -89,7 +89,7 @@ Virgil's _Aeneid_ tells us what it meant to be a "good Roman" in the early Roman
 Empire. Its particular picture of piety tied together filial, religious, and
 patriotic devotion.
 The epic's hero, Aeneas (who founds modern Rome in the final chapter) has many
-not-so-subtle parallels to the then newly crowned Augustus; Virgil seems to be
+not-so-subtle parallels to the then-newly-crowned Augustus; Virgil seems to be
 telling us, "You know how we all revere Aeneas for his piety? We should do the
 same thing with Augustus. After all, just like Aeneas was the last hope for
 Troy after the city's fall Augustus has saved us from the turmoil of the past
@@ -218,7 +218,7 @@ When I tell the story of a memory, however, everything changes. I still can't
 to something that, in some sense, _is happening_.
 I can't give an accurate description of what its like to tell a story if you
 don't have aphantasia, so maybe this is a universal experience. When I think
-about a memory, it's like reading sheet music, but I tell that the story it's
+about a memory, it's like reading sheet music, but when I tell that same story it's
 like seeing an orchestra perform the same
 piece---both contain the same information, but the story is alive in a way the
 pure memory isn't. Just as every conductor has their own interpretation of a piece
