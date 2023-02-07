@@ -1,5 +1,7 @@
 #+hugo_base_dir: ../
 #+hugo_front_matter_key_replace: author>authors
+#+hugo_front_matter_format: yaml
+
 
 * Pages
 :PROPERTIES:
