@@ -2,12 +2,203 @@
 
 * CAPTURE
 ** Stories with some sort of narrative weight
-- that time that I went to Krispy Kreme and slow during Covid
+- that time that I went to Krispy Kreme in SLO during Covid
 - The fog in Saint Louis
 ** Dancing in the kitchen
 exploring the ideas of intimacy and cooking---not sure what this would be! I
 don't really dance so I can't really say what DINK means in the first place.
+** Video Games
+    So here is the idea. Its about my relationship to video games. Called
+    something like "Nuzlocking Animal Crossing" or something like that. It takes
+    a look at a few different narratives and uses the nuzlocke as the capstone.
+    I don't want to think about how to break them up yet but I can figure that
+    out later and edit where needed.
+*** Animal Crossing
+Not as much to say here. but it came out at a *really* interesting time. I really
+enjoyed the play through but as it went on I started trying to have the "perfect
+island" and it lost all the fun.
+*** Minecraft
+There is a *lot* here there were a bunch of different ways that iv'e tried to play
+this game
+- During phase one I was playing totally casually. It was a ton of fun and I was
+  really proud of my world. I had that cool wizard tower. I had that cool glass
+  sphere. it was in the perfect little biome with the mountains by a river, snow
+  forest, oak forest, and desert.
+
+  I built a mob farm. It was really fun and I loved it
+
+  Then I decided to upgrade the version to the beta and it killed the fun. bc it
+  was too much about doing things optimally. So when that didn't make it fun I
+  decided to mod my game (which was bc I ahd been watching that on yt). It still
+  wasn't fun anymore.
+
+  So I took a bit off and when i returned a bit later I played the techy modded
+  and i got *really* good at it. i had all of the best stuff. i had this super
+  cool workship and i /beat/ the game. i got the stuff to turn creative mode into
+  survival mode. i decide to celebrate by building a beautiful little medeaval
+  village where the inside of every house wall full of tech and i lived in the
+  big oak mansion and i could start *building*. I had been watching a mix of
+  modders and people who built pretty buildings. I'm still subscribed to one.
+  When I build the last building I was ready to start moving all the tech over.
+  I went from house to house lighting the fire places exceps I had made a
+  mistake in the design and they weren't poperly fireproofed. so the whole thing
+  burned down. and even in with the god-like tech of recreating creative mode
+  you can't stop fire from spreading. I was so upset that I deleted the save
+  file. I know I backed it up somewhere but I haven't been able to find it.
+  perhaps there is a backup on a flashdrive hidden somewhere.
+
+  in late high school i returned. One summer i played with my friends. it was in
+  vanilla mode. i missed having the mods but i had really lovely time.
+  - adam was a better builder than me and i was a little jealous
+
+  - Shane was always up to shenanigans and it was so annoying but so fun
+
+  - i was somewhere in the middle but had a wonderful time
+
+  - the pickaxe
+
+  - you could talk about macie and adam flirting and how it was a little weird
+    but there isn't really a comedic angle bc it made me really sad and anxious
+    and shut down. it wasn't their fault at all--it was me who had the fucked up
+    mental state. Not sure there is a place for this part in the post tho
+
+  After the summer i started playing modde again. it was pretty fun bc all of
+  the mods had changed and so it was like playing anew all over again. i got
+  busy with school and stopped playing but i really enjoyed it.
+
+  the next summer we tried to set up a server and i wanted to play on a modded
+  server so i set it up. people didn't play as much bc no one wanted to learn
+  all of the modded things (also everyone was really busy lets not turn them
+  into villians. they really liked you.)
+
+  I stopped playing until college. i tried to play on a server with xian. it was
+  really fun to play with him. i ended up playing a lot by myself and got pretty
+  far into the tech tree. but also cheated a little bit for some of the super
+  duper grindy parts. when the summer was over we stopped.
+
+  i spun up a server during covid thinking it would be really fun. it didin't
+  even last a week
+
+  i havent played since
+
+*** Stardew valley
+similar thing. i went in and i was trying to optimize. i didn't look up
+strategies. i tried to gamify it. i was trying to beat stardew and i was really
+bad at it
+
+a few year later (a few months ago) i went back to stardew except now i had
+watched a bunch of stardew videos on yt and i knew how i could be really
+efficeint. i figured that if my goal was efficiency it would start being fun. it
+was really fun. probably more fun than when i played it before. i stopped
+playing bc i realized that all i was doing was copying other peoples ideas of a
+"perfect run" instead doing what i really wanted to do was 'have a pretty farm
+and slow down.' it was the antihesis of stardew.
+
+*** Pokemon
+favorite game as a kid. since RSE came out there is only one mainline series
+title I never played. and only two that i never beat.
+
+SWord was a bit of a snooze bc it was a kids game but i enjoyed it. "the best
+part is that its pokemon. the worst part is that its pokemon"
+
+then i played Violet during thanksgiving break. it was really fun bc i was
+playing it with a new goal. i was going to complete the pokedex. it got a little
+scary at the end with how it was taking up more and more of every day as i
+strategized to wittle down the dex.
+
+took a break until spring break. i did the thing with PLA.
+
+took a break until summer. after totk (similar pattern in breath of the wild.
+connect it?) i did ShSw. I started my plan to complete the national dex in my
+own special way. i caught all 600 (or whatever) pokemon. it was a lot of fun but
+toward the end it really started to sap my mental health. I'm not sure what to
+do about it bc it is genuinely fun but i can really get stuck on it. I'm taking
+a bit of a break before diving in again. I dont like the grindyness of it.
+
+(connect pokemon go? Compare to bex playing these games?)
+
+(/if/ you want to do this, be sure to walk it by Bex first) connect to lets go.
+you want bex to enjoy the game so we play through kanto. its really fun when we
+get to play together but the cathing part can be really grindy and i don't love that.
+
+all the while i'm watching more and more nuzlocke content. it looks like a
+really fun game but i wish i could play that. the only way to reliably be candy
+pilled is to play on a ROM. i like my pokemon too much to just throw them away.
+i discover pkhex and that i could hack them in. i am completly down with that. i
+spend a whole day setting up the virtualization on my laptop as a proof of
+concept.
+
+I start playing the nuzlocke yesterday. The battle against Norman. It is
+*outrageously* fun. Now that i am candy pilled there is no grind. when you break
+it down to this level it is a game of chess with a little bit of probability.
+this is a game i can actually optimize.
+
+*** Conclusion
+Honestly i think it is okay to gamify. it isn't always what i want to do tho.
+i'm not sure if i know how to play these kinds of games any other way. i wish it
+werent like that. i think there is a future where i learn to play stardew
+valley or animal crossing correctly or play minecraft with the perfect mix of
+tech and fun. thats not where i am at right now and thats okay.
+
+i might not be in a place where i can tolerate the grind of pokemon catching.
+but that is also okay. right now i have nuzlocking and that makes me really
+happy.
+
+
+--- Im not sure if this is a thing that i want to touch, but there is a really
+    dark undercurrent to a lot of this. there is a pretty direct corrolation to
+    what happens when i stuck in the games. checklists. optimization. maybe
+    even this blog post. that isn't scary. its just a lot. its what i do and its
+    a thing to think about.
+
+    now this a journal i guess. i think that its really good to recognize this
+    pattern. it means i need to approach nuzlockes really carefully. i think
+    there is an ability for it to be healthy (eg playing
+    so much yesterday. it was exciting! I hung out with bex and wasnt playing
+    the whole time) but also it could go bad. and that is okay but its also a
+    thing to watch out for. this is a thing for therapy bc the gamification is
+    pretty compulsive.
+
+    I know that this is a lot, but like i was saying today to bex i think i'm
+    doing really good lately. ive been so productive the last few days and the
+    things i did felt so much more like "things i wanted to do" {math} than
+    "things i was required to do to be a human person." i think that the fact
+    that i'm able to recognize and not shy away from these feelings is a really
+    good thing. I think i might be a little anxious about this.
+
+
+    For that lucas: you are in a *really* good place. you are getting happier. you
+    are starting to feel the warmer parts of life again. it feels so good. yes
+    there are some parts that are still almost always cold but thats okay. bc
+    you are getting warmer. i promise that you will get warm again.
+
+    i'm not sure whether or not nuzlockes are going to be like ice or a candle.
+    part of me fears ice. part of me hopes that it is a candle. the part that
+    hopes has been let down by one video game after another but it still hopes.
+    I'm happy to hope with it and sing along.
+
+** Martial Arts and Kinship to Failure
+This is deep in my bones and it would be cool to explore!
+
 * PLAN
+** Out of Our Way, Old People
+- unpack peoples obsession with Dark Academia(tm) as a modern link
+- Could contrast the cold light of a phone screen with a candle
+- Hes right. I think that he overlooks some things about the beauty of sunlight.
+  but I think we swung too far
+- What is the backbone? What is the central narrative?
+  - This breaks the funny title, but I could frame it with how my homekit lights
+    don't actually work -- so the color temperature I want (as a way to claw
+    back against the light) often breaks. If I didn't lean so hard into tech
+    then it wouldn't be a problem
+  - It could just be my response to the book. That feels too much like a book
+    report.
+
+I guess now I'm wondering if this is actually something I want to write about.
+It was an interesting essay and I would love to explore the ideas at some point,
+but I'm not sure that I necessarily want to explore is through my blog (at least
+right now.)
+
 ** Four Mirrors and a Poem
 :PROPERTIES:
 :VISIBILITY: folded
